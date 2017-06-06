@@ -1,0 +1,26 @@
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.DAL\bin\Release\Projeler.DAL.dll.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.DAL\bin\Release\Projeler.DAL.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.DAL\bin\Release\Projeler.DAL.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.DAL\bin\Release\EntityFramework.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.DAL\bin\Release\EntityFramework.SqlServer.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.DAL\bin\Release\Projeler.Entity.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.DAL\bin\Release\Projeler.Entity.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.DAL\bin\Release\Projeler.Entity.dll.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.DAL\bin\Release\EntityFramework.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.DAL\bin\Release\EntityFramework.SqlServer.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.DAL\obj\Release\Projeler.DAL.csprojResolveAssemblyReference.cache
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.DAL\obj\Release\Projeler.DAL.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.DAL\obj\Release\Projeler.DAL.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.DAL\bin\Release\Projeler.DAL.dll.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.DAL\bin\Release\Projeler.DAL.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.DAL\bin\Release\Projeler.DAL.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.DAL\bin\Release\EntityFramework.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.DAL\bin\Release\EntityFramework.SqlServer.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.DAL\bin\Release\Projeler.Entity.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.DAL\bin\Release\Projeler.Entity.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.DAL\bin\Release\Projeler.Entity.dll.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.DAL\bin\Release\EntityFramework.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.DAL\bin\Release\EntityFramework.SqlServer.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.DAL\obj\Release\Projeler.DAL.csprojResolveAssemblyReference.cache
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.DAL\obj\Release\Projeler.DAL.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.DAL\obj\Release\Projeler.DAL.pdb

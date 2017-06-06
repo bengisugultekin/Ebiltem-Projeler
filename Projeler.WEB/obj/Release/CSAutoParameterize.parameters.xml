@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ProjeDB-Web.config Connection String" description="ProjeDB Connection String used in web.config by the application to access the database." defaultValue="data source=ttoproje.database.windows.net;initial catalog=ProjeDB;user id=beng;password=1qa2ws3ed.;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Users\\Bengisu\\Desktop\\PROJECTS\\ProjelerTTO\ -\ Version\ 2\.0\ -\ Publish\\Projeler\.WEB\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ProjeDB']/@connectionString" />
+  </parameter>
+</parameters>

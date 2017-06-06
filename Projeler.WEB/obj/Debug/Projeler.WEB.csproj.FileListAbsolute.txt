@@ -1,0 +1,289 @@
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\csc.exe
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\csc.exe.config
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\csc.rsp
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\csi.exe
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\csi.rsp
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\System.AppContext.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\System.Collections.Immutable.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\System.IO.FileSystem.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\vbc.exe
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\vbc.exe.config
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\vbc.rsp
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\VBCSCompiler.exe
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\roslyn\VBCSCompiler.exe.config
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\Projeler.WEB.dll.config
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\Projeler.WEB.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\Projeler.WEB.pdb
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\Projeler.DAL.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\Projeler.Entity.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\System.Web.Helpers.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\System.Web.Mvc.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\System.Web.Razor.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\System.Web.Webpages.Deployment.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\System.Web.Webpages.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\System.Web.Webpages.Razor.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\EntityFramework.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\Projeler.DAL.pdb
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\Projeler.DAL.dll.config
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\Projeler.Entity.pdb
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\Projeler.Entity.dll.config
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\System.Web.Razor.xml
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\System.Web.Webpages.xml
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\System.Web.Webpages.Deployment.xml
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\System.Web.Webpages.Razor.xml
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\System.Web.Helpers.xml
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\System.Web.Mvc.xml
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\EntityFramework.xml
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\obj\Debug\Projeler.WEB.csprojResolveAssemblyReference.cache
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\obj\Debug\Projeler.WEB.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\obj\Debug\Projeler.WEB.pdb
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\EntityFramework.SqlServer.dll
+c:\users\bengisu\documents\visual studio 2017\Projects\Projeler\Projeler.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\obj\Debug\Projeler.WEB.csprojResolveAssemblyReference.cache
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\obj\Debug\Projeler.WEB.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\obj\Debug\Projeler.WEB.pdb
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\csc.exe
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\csc.exe.config
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\csc.rsp
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\csi.exe
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\csi.rsp
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\System.AppContext.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\vbc.exe
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\vbc.exe.config
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\vbc.rsp
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\Projeler.WEB.dll.config
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\Projeler.WEB.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\Projeler.WEB.pdb
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\EntityFramework.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\Projeler.DAL.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\Projeler.Entity.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\System.Web.Helpers.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\System.Web.Mvc.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\System.Web.Razor.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\System.Web.Webpages.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\Projeler.DAL.pdb
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\Projeler.DAL.dll.config
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\Projeler.Entity.pdb
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\Projeler.Entity.dll.config
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\EntityFramework.xml
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\System.Web.Razor.xml
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\System.Web.Webpages.xml
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\System.Web.Helpers.xml
+C:\Users\Bengisu\Desktop\Projeler\Projeler.WEB\bin\System.Web.Mvc.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\csc.exe
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\csc.exe.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\csc.rsp
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\csi.exe
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\csi.rsp
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\System.AppContext.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\vbc.exe
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\vbc.exe.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\vbc.rsp
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\VBCSCompiler.exe
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\Projeler.WEB.dll.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\Projeler.WEB.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\Projeler.WEB.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\EntityFramework.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\EntityFramework.SqlServer.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\Projeler.DAL.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\Projeler.Entity.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\System.Web.Helpers.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\System.Web.Mvc.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\System.Web.Razor.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\System.Web.Webpages.Deployment.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\System.Web.Webpages.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\System.Web.Webpages.Razor.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\Projeler.DAL.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\Projeler.DAL.dll.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\Projeler.Entity.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\Projeler.Entity.dll.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\EntityFramework.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\EntityFramework.SqlServer.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\System.Web.Razor.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\System.Web.Webpages.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\System.Web.Webpages.Deployment.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\System.Web.Webpages.Razor.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\System.Web.Helpers.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\bin\System.Web.Mvc.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\obj\Debug\Projeler.WEB.csprojResolveAssemblyReference.cache
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\obj\Debug\Projeler.WEB.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.WEB\obj\Debug\Projeler.WEB.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\csc.exe
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\csc.exe.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\csc.rsp
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\csi.exe
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\csi.rsp
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\System.AppContext.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\vbc.exe
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\vbc.exe.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\vbc.rsp
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\VBCSCompiler.exe
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\Projeler.WEB.dll.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\Projeler.WEB.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\Projeler.WEB.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\EntityFramework.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\EntityFramework.SqlServer.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\Newtonsoft.Json.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\Projeler.DAL.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\Projeler.Entity.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\System.Web.Helpers.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\System.Web.Mvc.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\System.Web.Razor.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\System.Web.Webpages.Deployment.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\System.Web.Webpages.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\System.Web.Webpages.Razor.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\Projeler.DAL.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\Projeler.DAL.dll.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\Projeler.Entity.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\Projeler.Entity.dll.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\EntityFramework.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\EntityFramework.SqlServer.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\Newtonsoft.Json.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\System.Web.Razor.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\System.Web.Webpages.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\System.Web.Webpages.Deployment.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\System.Web.Webpages.Razor.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\System.Web.Helpers.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\bin\System.Web.Mvc.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\obj\Debug\Projeler.WEB.csprojResolveAssemblyReference.cache
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\obj\Debug\Projeler.WEB.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0\Projeler.WEB\obj\Debug\Projeler.WEB.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\csc.exe
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\csc.exe.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\csc.rsp
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\csi.exe
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\csi.rsp
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\System.AppContext.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\vbc.exe
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\vbc.exe.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\vbc.rsp
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\VBCSCompiler.exe
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\Projeler.WEB.dll.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\Projeler.WEB.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\Projeler.WEB.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\EntityFramework.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\EntityFramework.SqlServer.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\Newtonsoft.Json.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\Projeler.DAL.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\Projeler.Entity.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\System.Web.Helpers.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\System.Web.Mvc.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\System.Web.Razor.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\System.Web.Webpages.Deployment.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\System.Web.Webpages.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\System.Web.Webpages.Razor.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\Projeler.DAL.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\Projeler.DAL.dll.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\Projeler.Entity.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\Projeler.Entity.dll.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\EntityFramework.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\EntityFramework.SqlServer.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\Newtonsoft.Json.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\System.Web.Razor.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\System.Web.Webpages.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\System.Web.Webpages.Deployment.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\System.Web.Webpages.Razor.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\System.Web.Helpers.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\bin\System.Web.Mvc.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\obj\Debug\Projeler.WEB.csprojResolveAssemblyReference.cache
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\obj\Debug\Projeler.WEB.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.WEB\obj\Debug\Projeler.WEB.pdb

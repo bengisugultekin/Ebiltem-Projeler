@@ -1,0 +1,103 @@
+﻿@model List<Projeler.Entity.Models.Proje>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="container">
+        <div class="form-group">
+
+            <div id="checkboxes">
+                <label><input type="checkbox" name="TipHibe" value="Hibe" id="hibe" /> Hibe Desteği   </label>
+                <label><input type="checkbox" name="TipOrtaklik" value="Ortaklıklar" id="ortaklıklar" /> Ortaklıklar </label>
+            </div>
+
+            <br />
+
+            <input class="form-control" type="text" name="name" value="" placeholder="Kelime Arama" />
+
+            <br />
+
+            @{
+                List<SelectListItem> kaynakList = new List<SelectListItem>();
+
+                foreach (var item in ViewBag.Kaynak)
+                {
+                    kaynakList.Add(new SelectListItem
+                    {
+                        Text = item.KaynakAdi,
+                        Value = item.KaynakAdi
+                    });
+                }
+                @Html.DropDownList("kaynakAdi", kaynakList, "Kaynak Seçiniz", new { @class = "form-control" })
+
+                <br />
+
+                List<SelectListItem> yurutucuList = new List<SelectListItem>();
+
+                foreach (var item in ViewBag.Yurutucu)
+                {
+                    yurutucuList.Add(new SelectListItem
+                    {
+                        Text = item.YurutucuAdi,
+                        Value = item.YurutucuAdi
+                    });
+                }
+
+                @Html.DropDownList("yurutucuAdi", yurutucuList, "Yürütücü Seçiniz", new { @class = "form-control" })
+                
+            }
+
+            <div style="display:none" id="calismaAlaniDiv">
+
+                <h3>Çalışma Alanı</h3>
+                
+                @foreach (var item in ViewBag.CalismaAlani)
+                {
+                    <p><input type="checkbox" name="CalismaAlaniAdi" value="@item.CalismaAlaniAdi" id="checkbox" /> @item.CalismaAlaniAdi</p>
+                }
+            </div>
+
+            <br />
+
+            <div style="display:none" id="temaDiv">
+
+                <h3>Tema</h3>
+
+                @foreach (var item in ViewBag.Tema)
+                {
+                    <p><input type="checkbox" name="TemaAdi" value="@item.TemaAdi" id="checkbox" /> @item.TemaAdi</p>
+                }
+
+            </div>
+
+            <br />
+            <button class="btn btn-default" type="submit">30 gün içinde başvurusu bitecek çağrılar</button>
+
+            <button class="btn btn-default">ARA</button>
+
+
+
+        </div>
+    </div>
+                }
+
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+
+    $('#hibe').change(function () {
+        $('#calismaAlaniDiv').toggle();
+        $('#temaDiv').toggle();
+    });
+
+</script>
+
+
+
+
+
+        @*json kullanarak ayrı ayrı tablolardan verileri get metodu ile getir javascript ile yükle*@

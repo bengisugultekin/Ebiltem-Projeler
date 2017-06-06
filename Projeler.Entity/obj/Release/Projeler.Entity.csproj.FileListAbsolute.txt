@@ -1,0 +1,32 @@
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\bin\Release\Projeler.Entity.dll.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\bin\Release\Projeler.Entity.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\bin\Release\Projeler.Entity.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\bin\Release\EntityFramework.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\bin\Release\EntityFramework.SqlServer.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\bin\Release\EntityFramework.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\bin\Release\EntityFramework.SqlServer.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\obj\Release\Projeler.Entity.csprojResolveAssemblyReference.cache
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\obj\Release\Projeler.Entity.Migrations.InitialCreate.resources
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\obj\Release\Projeler.Entity.Migrations.mapping.resources
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\obj\Release\Projeler.Entity.Migrations.DropMapping.resources
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\obj\Release\Projeler.Entity.Migrations.projeTipi.resources
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\obj\Release\Projeler.Entity.Migrations.newMapping.resources
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\obj\Release\Projeler.Entity.Migrations._enum.resources
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\obj\Release\Projeler.Entity.Migrations.nullable.resources
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\obj\Release\Projeler.Entity.Migrations.date.resources
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\obj\Release\Projeler.Entity.Migrations.anahtarKelime.resources
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\obj\Release\Projeler.Entity.Migrations.yazimhatasi.resources
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\obj\Release\Projeler.Entity.Migrations.anahtar.resources
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\obj\Release\Projeler.Entity.csproj.GenerateResource.Cache
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\obj\Release\Projeler.Entity.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO\Projeler.Entity\obj\Release\Projeler.Entity.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.Entity\bin\Release\Projeler.Entity.dll.config
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.Entity\bin\Release\Projeler.Entity.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.Entity\bin\Release\Projeler.Entity.pdb
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.Entity\bin\Release\EntityFramework.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.Entity\bin\Release\EntityFramework.SqlServer.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.Entity\bin\Release\EntityFramework.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.Entity\bin\Release\EntityFramework.SqlServer.xml
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.Entity\obj\Release\Projeler.Entity.csprojResolveAssemblyReference.cache
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.Entity\obj\Release\Projeler.Entity.dll
+D:\Users\Bengisu\Desktop\PROJECTS\ProjelerTTO - Version 2.0 - Publish\Projeler.Entity\obj\Release\Projeler.Entity.pdb
